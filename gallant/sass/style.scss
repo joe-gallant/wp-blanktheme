@@ -1,0 +1,20 @@
+/*
+Theme Name: hotelres Theme
+Theme Author: Red Graphic
+*/
+
+@import "compass";
+@import "compass/reset";
+
+// Here we import our partials
+@import "_partials/mixins";
+@import "_partials/variables";
+@import "_partials/typography";
+@import "_partials/main";
+@import "_partials/header";
+@import "_partials/home";
+@import "_partials/news";
+@import "_partials/footer";
+@import "_partials/page";
+@import "_partials/contact";
+@import "_partials/reports";
