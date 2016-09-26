@@ -6,8 +6,6 @@
 
 <?php get_template_part( 'entry' ); ?>
 
-<?php comments_template(); ?>
-
 <?php endwhile; endif; ?>
 
 </section>
